@@ -40,6 +40,9 @@
  * 
  */
 
+#include<bits/stdc++.h>
+using namespace
+
 // @lc code=start
 class Solution {
 public:
